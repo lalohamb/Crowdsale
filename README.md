@@ -1,6 +1,6 @@
-#About this crowdscript
+# About this crowdscript
 ## Uses Hardhat for testing purposes
-### steps N
+### steps '^'n
 
 # Getting Started with Create React App
 
