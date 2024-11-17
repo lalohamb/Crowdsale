@@ -11,6 +11,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+### On any Errors Check
+    74  npm install
+   75  npx hardhat compile
+   76  npx hardhat node
+   77  npm start run
+   78  npx hardhat node
+   79  npx hardhat run --network localhost scripts/deploy.js
+   80  npx hardhat run --network localhost scripts/Deploy.js
+   81  npm start run
+   82  npx hardhat node
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
